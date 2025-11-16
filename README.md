@@ -1,0 +1,2 @@
+# TI_DSP_Study
+LAUNCHXL-F28379D를 이용한 DSP 학습
